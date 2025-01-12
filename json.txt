@@ -1,1 +1,0 @@
-{"object": "page", "entry": [{"messaging": [{"message": "TEST_MESSAGE"}]}]}
